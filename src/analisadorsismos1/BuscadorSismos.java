@@ -3,7 +3,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package analisadorsismos1;
-
+/**
+ * @author Luca
+ */
 
 import java.io.BufferedReader;
 import java.io.FileReader;

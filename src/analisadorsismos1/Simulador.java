@@ -3,7 +3,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package analisadorsismos1;
-
+/**
+ * @author Luca
+ */
 
 import java.time.LocalDate;
 import java.util.List;

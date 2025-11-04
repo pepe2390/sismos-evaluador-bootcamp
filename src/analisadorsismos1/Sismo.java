@@ -4,7 +4,9 @@
  */
 package analisadorsismos1;
 
-
+/**
+ * @author Luca
+ */
 import java.time.LocalDate;
 
 /**

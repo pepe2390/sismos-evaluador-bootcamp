@@ -3,7 +3,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package analisadorsismos1;
-
+/**
+ * @author Luca
+ */
 
 /**
  * Clase de servicio que genera el reporte de texto para el usuario.

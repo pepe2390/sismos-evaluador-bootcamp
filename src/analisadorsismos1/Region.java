@@ -4,7 +4,9 @@
  */
 package analisadorsismos1;
 
-
+/**
+ * @author Luca
+ */
 /**
  * Clase Padre que representa una Región.
  * Contiene la información común a todas las provincias de esta región.

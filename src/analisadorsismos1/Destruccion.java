@@ -4,7 +4,9 @@
  */
 package analisadorsismos1;
 
-
+/**
+ * @author Luca
+ */
 /**
  * Clase que calcula el impacto de un sismo.
  * Es la responsable de la lógica de negocio que transforma

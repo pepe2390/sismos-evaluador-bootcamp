@@ -3,7 +3,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package analisadorsismos1;
-
+/**
+ * @author Luca
+ */
 
 /**
  * Clase POJO que almacena el resultado de un cálculo de Destruccion.
