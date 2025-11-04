@@ -1,0 +1,57 @@
+"Indice","Numero_Region","Nombre_Region","Nombre_Provincia","Poblacion", "Superficie km2", "Superficie", "Luz", "Agua", "Comida", "Medicamentos", "Comunicaciones"
+0,"XV","Region de Arica y Parinacota","Arica",221364, 8726, "Sedimentario", 1, 1, 1, 1, 1
+1,"XV","Region de Arica y Parinacota","Parinacota",3449, 8145, "Montaña/Roca", 1, 1, 1, 1, 1
+2,"I","Region de Tarapaca","Iquique",299843, 28351, "Mixto/Transición", 1, 1, 1, 1, 1
+3,"I","Region de Tarapaca","El Tamarugal",30715, 4295, "Montaña/Roca", 1, 1, 1, 1, 1
+4,"II","Region de Antofagasta","Antofagasta",396905, 13745, "Mixto/Transición", 1, 1, 1, 1, 1
+5,"II","Region de Antofagasta","El Loa",177048, 41999, "Montaña/Roca", 1, 1, 1, 1, 1
+6,"II","Region de Antofagasta","Tocopilla",31643, 1629, "Mixto/Transición", 1, 1, 1, 1, 1
+7,"III","Region de Atacama","Copiapo",185618, 32538, "Sedimentario", 1, 1, 1, 1, 1
+8,"III","Region de Atacama","Chanaral",26145, 24436, "Montaña/Roca", 1, 1, 1, 1, 1
+9,"III","Region de Atacama","Huasco",74406, 15387, "Mixto/Transición", 1, 1, 1, 1, 1
+10,"IV","Region de Coquimbo","Elqui",496337, 16895, "Mixto/Transición", 1, 1, 1, 1, 1
+11,"IV","Region de Coquimbo","Choapa",90670, 13151, "Montaña/Roca", 1, 1, 1, 1, 1
+12,"IV","Region de Coquimbo","Limari",170579, 13553, "Sedimentario", 1, 1, 1, 1, 1
+13,"V","Region de Valparaiso","Valparaiso",750936, 2146, "Sedimentario", 1, 1, 1, 1, 1
+14,"V","Region de Valparaiso","Isla de Pascua",7750, 164, "Roca/Volcánica", 1, 1, 1, 1, 1
+15,"V","Region de Valparaiso","Los Andes",110602, 3054, "Montaña/Roca", 1, 1, 1, 1, 1
+16,"V","Region de Valparaiso","Marga Marga",341893, 928, "Mixto/Transición", 1, 1, 1, 1, 1
+17,"V","Region de Valparaiso","Petorca",78299, 4642, "Montaña/Roca", 1, 1, 1, 1, 1
+18,"V","Region de Valparaiso","Quillota",203275, "Sedimentario", 1, 1, 1, 1, 1
+19,"V","Region de Valparaiso","San Antonio",168046, 1512, "Sedimentario", 1, 1, 1, 1, 1
+20,"V","Region de Valparaiso","San Felipe de Aconcagua",154718, 2659, "Mixto/Transición", 1, 1, 1, 1, 1
+21,"RM","Region Metropolitana de Santiago","Santiago",5250565, 20307, "Sedimentario", 1, 1, 1, 1, 1
+22,"RM","Region Metropolitana de Santiago","Chacabuco",265421, 5387, "Mixto/Transición", 1, 1, 1, 1, 1
+23,"RM","Region Metropolitana de Santiago","Cordillera",612816, 5431, "Montaña/Roca", 1, 1, 1, 1, 1
+24,"RM","Region Metropolitana de Santiago","Maipo",496085, 1121, "Sedimentario", 1, 1, 1, 1, 1
+25,"RM","Region Metropolitana de Santiago","Melipilla",185966, 4066, "Mixto/Transición", 1, 1, 1, 1, 1
+26,"RM","Region Metropolitana de Santiago","Talagante",320009, 683,  "Sedimentario", 1, 1, 1, 1, 1
+27,"VI","Region del Libertador General Bernardo O'Higgins","Cachapoal",646133, 8934, "Sedimentario", 1, 1, 1, 1, 1
+28,"VI","Region del Libertador General Bernardo O'Higgins","Cardenal Caro",45877, 5678, "Mixto/Transición", 1, 1, 1, 1, 1
+29,"VI","Region del Libertador General Bernardo O'Higgins","Colchagua",222556, 3325, "Mixto/Transición", 1, 1, 1, 1, 1
+30,"VII","Region del Maule","Talca",412769, 14294, "Sedimentario", 1, 1, 1, 1, 1
+31,"VII","Region del Maule","Cauquenes",59907, 5971, "Mixto/Transición", 1, 1, 1, 1, 1
+32,"VII","Region del Maule","Curico",288880, 7264, "Sedimentario", 1, 1, 1, 1, 1
+33,"VII","Region del Maule","Linares",286361, 10052, "Mixto/Transición", 1, 1, 1, 1, 1
+34,"XVI","Region de Nuble","Diguillin",319808, 5233, "Sedimentario", 1, 1, 1, 1, 1
+35,"XVI","Region de Nuble","Itata",53834, 2736, "Mixto/Transición", 1, 1, 1, 1, 1
+36,"XVI","Region de Nuble","Punilla",106968, 5202, "Montaña/Roca", 1, 1, 1, 1, 1
+37,"VIII","Region del Biobio","Concepcion",995658, 3439, "Sedimentario", 1, 1, 1, 1, 1
+38,"VIII","Region del Biobio","Arauco",166087, 5459, "Mixto/Transición", 1, 1, 1, 1, 1
+39,"VIII","Region del Biobio","Biobio",395060, 14988,  "Montaña/Roca", 1, 1, 1, 1, 1
+40,"IX","Region de La Araucania","Cautin",752100, 18409, "Sedimentario", 1, 1, 1, 1, 1
+41,"IX","Region de La Araucania","Malleco",205124, 13429, "Mixto/Transición", 1, 1, 1, 1, 1
+42,"XIV","Region de Los Rios","Valdivia",290809, 10197, "Sedimentario", 1, 1, 1, 1, 1
+43,"XIV","Region de Los Rios","Del Ranco",93969, 7122, "Mixto/Transición", 1, 1, 1, 1, 1
+44,"X","Region de Los Lagos","Llanquihue",408052, 14876, "Sedimentario", 1, 1, 1, 1, 1
+45,"X","Region de Los Lagos","Chiloe",168185, 7122, "Mixto/Transición", 1, 1, 1, 1, 1
+46,"X","Region de Los Lagos","Osorno",234122, 9214, "Mixto/Transición", 1, 1, 1, 1, 1
+47,"X","Region de Los Lagos","Palena",18349, 15302, "Montaña/Roca", 1, 1, 1, 1, 1
+48,"XI","Region de Aysen del General Carlos Ibanez del Campo","Coyhaique",58670, 29074, "Mixto/Transición", 1, 1, 1, 1, 1
+49,"XI","Region de Aysen del General Carlos Ibanez del Campo","Aysen",32319, 46588, "Mixto/Transición", 1, 1, 1, 1, 1
+50,"XI","Region de Aysen del General Carlos Ibanez del Campo","Capitan Prat",4638, 37044, "Montaña/Roca", 1, 1, 1, 1, 1
+51,"XI","Region de Aysen del General Carlos Ibanez del Campo","General Carrera",7531, 11959, "Montaña/Roca", 1, 1, 1, 1, 1
+52,"XII","Region de Magallanes y de la Antartica Chilena","Magallanes",133282, 36400, "Mixto/Transición", 1, 1, 1, 1, 1
+53,"XII","Region de Magallanes y de la Antartica Chilena","Antartica Chilena",2201, 14146, "Roca/Hielo", 1, 1, 1, 1, 1
+54,"XII","Region de Magallanes y de la Antartica Chilena","Tierra del Fuego",7062, 29484, "Mixto/Transición", 1, 1, 1, 1, 1
+55,"XII","Region de Magallanes y de la Antartica Chilena","Ultima Esperanza",22686, 54930,400,"Montaña/Roca", 1, 1, 1, 1, 1
